@@ -6,7 +6,9 @@
 - 📫 How to reach me: Paris | IDF
 - 😄 Pronouns: She 
 
--->
-
 <div> 
 <a href="https://github.com/MoniqueBarreto">
+
+</div>
+
+-->
